@@ -1,0 +1,4 @@
+Tasks:
+  1 - Write a removing all the duplicates from the list.
+  2 - Write a count of the number of lines in the list that start with a certain letter
+  3 - By using findFirst operator write a searching the second-largest element in the integer list.
